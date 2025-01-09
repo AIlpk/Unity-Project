@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:@Project\\Scripts\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:@Project\\Scripts\\CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\CameraShaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:@Project\\Scripts\\CameraShaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\PlayerHit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:@Project\\Scripts\\PlayerHit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\UIManage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:@Project\\Scripts\\UIManage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\MenuController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:@Project\\Scripts\\MenuController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\GameController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:@Project\\Scripts\\GameController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\DestroyTram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:@Project\\Scripts\\DestroyTram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\Fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:@Project\\Scripts\\Fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\PC2D\\Scripts\\PlayerController2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PC2D\\Scripts\\PlayerController2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\PC2D\\Scripts\\PlatformerAnimation2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PC2D\\Scripts\\PlatformerAnimation2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\PC2D\\Scripts\\MovingPlatformMotor2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PC2D\\Scripts\\MovingPlatformMotor2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIManage.cs",
+              "DocumentMoniker": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\UIManage.cs",
+              "RelativeDocumentMoniker": "@Project\\Scripts\\UIManage.cs",
+              "ToolTip": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\UIManage.cs",
+              "RelativeToolTip": "@Project\\Scripts\\UIManage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T03:09:37.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerHit.cs",
+              "DocumentMoniker": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\PlayerHit.cs",
+              "RelativeDocumentMoniker": "@Project\\Scripts\\PlayerHit.cs",
+              "ToolTip": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\PlayerHit.cs",
+              "RelativeToolTip": "@Project\\Scripts\\PlayerHit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T02:38:48.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "@Project\\Scripts\\Player.cs",
+              "ToolTip": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\Player.cs",
+              "RelativeToolTip": "@Project\\Scripts\\Player.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T02:36:38.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraShaker.cs",
+              "DocumentMoniker": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\CameraShaker.cs",
+              "RelativeDocumentMoniker": "@Project\\Scripts\\CameraShaker.cs",
+              "ToolTip": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\CameraShaker.cs",
+              "RelativeToolTip": "@Project\\Scripts\\CameraShaker.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T02:25:52.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "@Project\\Scripts\\CameraFollow.cs",
+              "ToolTip": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "@Project\\Scripts\\CameraFollow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T02:25:59.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\MenuController.cs",
+              "RelativeDocumentMoniker": "@Project\\Scripts\\MenuController.cs",
+              "ToolTip": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\MenuController.cs",
+              "RelativeToolTip": "@Project\\Scripts\\MenuController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T03:05:25.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "@Project\\Scripts\\GameController.cs",
+              "ToolTip": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\GameController.cs",
+              "RelativeToolTip": "@Project\\Scripts\\GameController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T02:38:55.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\Fruit.cs",
+              "RelativeDocumentMoniker": "@Project\\Scripts\\Fruit.cs",
+              "ToolTip": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\Fruit.cs",
+              "RelativeToolTip": "@Project\\Scripts\\Fruit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T02:27:45.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerController2D.cs",
+              "DocumentMoniker": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\PC2D\\Scripts\\PlayerController2D.cs",
+              "RelativeDocumentMoniker": "PC2D\\Scripts\\PlayerController2D.cs",
+              "ToolTip": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\PC2D\\Scripts\\PlayerController2D.cs",
+              "RelativeToolTip": "PC2D\\Scripts\\PlayerController2D.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T02:18:03.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DestroyTram.cs",
+              "DocumentMoniker": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\DestroyTram.cs",
+              "RelativeDocumentMoniker": "@Project\\Scripts\\DestroyTram.cs",
+              "ToolTip": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\@Project\\Scripts\\DestroyTram.cs",
+              "RelativeToolTip": "@Project\\Scripts\\DestroyTram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T02:25:51.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlatformerAnimation2D.cs",
+              "DocumentMoniker": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\PC2D\\Scripts\\PlatformerAnimation2D.cs",
+              "RelativeDocumentMoniker": "PC2D\\Scripts\\PlatformerAnimation2D.cs",
+              "ToolTip": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\PC2D\\Scripts\\PlatformerAnimation2D.cs",
+              "RelativeToolTip": "PC2D\\Scripts\\PlatformerAnimation2D.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T02:12:07.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovingPlatformMotor2D.cs",
+              "DocumentMoniker": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\PC2D\\Scripts\\MovingPlatformMotor2D.cs",
+              "RelativeDocumentMoniker": "PC2D\\Scripts\\MovingPlatformMotor2D.cs",
+              "ToolTip": "D:\\UnityProject\\NinjaFrog-main\\Project Code\\Assets\\PC2D\\Scripts\\MovingPlatformMotor2D.cs",
+              "RelativeToolTip": "PC2D\\Scripts\\MovingPlatformMotor2D.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T02:10:25.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

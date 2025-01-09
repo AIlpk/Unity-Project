@@ -1,0 +1,16 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="BackToMenu">
+			<method name="LoadMenuScene"/>
+			<method name="LoadMenuScene"/>
+		</type>
+		<type fullname="GameController">
+			<method name="Replay"/>
+			<method name="Replay"/>
+		</type>
+		<type fullname="MenuController">
+			<method name="ExitGame"/>
+			<method name="StartGame"/>
+		</type>
+	</assembly>
+</linker>
